@@ -19,7 +19,7 @@
 - ✅ 推荐准确率70%（测试集）
 
 ## 如何运行
-1. 克隆项目：`git clone https://github.com/你的用户名/VideoRecommend.git`
+1. 克隆项目：`git clone https://github.com/liaoliao08/VideoRecommend.git`
 2. 用Android Studio打开
 3. 等待Gradle同步完成
 4. 运行到真机或模拟器
